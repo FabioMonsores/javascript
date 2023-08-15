@@ -1,4 +1,1 @@
-# javascript
-# javascript
-# javascript
-# javascript
+# Curso de JavaScript e TypeScript do básico ao avançado do Otávio Miranda
